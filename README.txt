@@ -1,6 +1,6 @@
 Angel Isado landing page for personal and commercial use. Designed with ♥️ and creativity by Angel Alberto Isado Lenis. 
 
-Product Page: https://github.com/Bacano-17/Angel_Isado_CV/
+Product Page: https://github.com/Bacano-17/Angel-Isado-CV/
 
 Credits:
 
@@ -16,3 +16,4 @@ Credits:
 		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
 		Isotope: 			(https://isotope.metafizzy.co/) 
 		Google Maps:		(https://maps.google.com)
+
